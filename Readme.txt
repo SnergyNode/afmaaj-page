@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
-
-Theme Name: eBusiness
-Theme URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+This is the Homepage for Afmaaj.co
+- It should be a single page with information only
